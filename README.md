@@ -1,4 +1,4 @@
- 👋 Hi, I’m Liar, a young starting programmer from Finland.
+ 👋 Hi, I’m Leevi, aka. Liar, a young starting programmer from Finland.
   👀 I mainly code websites with HTML. I also know a bit about React.
         
    I'm a member of the lomalaskuri.tk project. https://lomalaskuri.tk
@@ -8,6 +8,10 @@
  control audio sources automatically based on the active scene.
 I'm coding the script with Python.
 
+
+I also do livestreamign:
+
+https://twitch.tv/liarstream
 
 Reach to me:
 
